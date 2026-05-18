@@ -4,7 +4,7 @@ spring:
 
   # Conexion a la Base de Datos Docker
   datasource:
-    url: jdbc:postgresql://localhost:5432/lean_memory
+    url: jdbc:postgresql://localhost:5433/lean_memory
     username: postgres
     password: root
     driver-class-name: org.postgresql.Driver
